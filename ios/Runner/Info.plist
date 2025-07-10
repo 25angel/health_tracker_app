@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>GIDClientID</key>
+<!-- TODO Replace this value: -->
+<!-- Copied from GoogleService-Info.plist key CLIENT_ID -->
+<string>636715450585-h23mj70mu9jkt2tkl26bo9tp1g4j7g3a.apps.googleusercontent.com</string>
+
+<!-- Put me in the [my_project]/ios/Runner/Info.plist file -->
+<!-- Google Sign-in Section -->
+<key>CFBundleURLTypes</key>
+<array>
+	<dict>
+		<key>CFBundleTypeRole</key>
+		<string>Editor</string>
+		<key>CFBundleURLSchemes</key>
+		<array>
+			<!-- TODO Replace this value: -->
+			<!-- Copied from GoogleService-Info.plist key REVERSED_CLIENT_ID -->
+			<string>com.googleusercontent.apps.636715450585-h23mj70mu9jkt2tkl26bo9tp1g4j7g3a</string>
+		</array>
+	</dict>
+</array>
+<!-- End of the Google Sign-in Section -->
+
+<key>LSApplicationQueriesSchemes</key>
+<array>
+  <string>tel</string>
+</array>
+
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>We need your location to send emergency messages.</string>
+<key>NSLocationAlwaysUsageDescription</key>
+<string>We need your location to send emergency messages.</string>
+
+<key>UIBackgroundModes</key>
+<array>
+  <string>fetch</string>
+  <string>location</string>
+</array>
+
+<key>UIBackgroundModes</key>
+<array>
+	<string>fetch</string>
+	<string>remote-notification</string>
+</array>
+<key>FirebaseAppDelegateProxyEnabled</key>
+<false/>
+<key>NSUserTrackingUsageDescription</key>
+<string>Это используется для отображения уведомлений о приёмах пищи</string>
+<key>NSCalendarsUsageDescription</key>
+<string>Приложение использует календарь для планирования напоминаний</string>
+<key>NSLocalNetworkUsageDescription</key>
+<string>Для отправки уведомлений о приёме пищи</string>
+
+<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+<string>Мы используем ваше местоположение для отправки тревожных уведомлений</string>
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>Мы используем ваше местоположение для отправки тревожных уведомлений</string>
+<key>NSLocationAlwaysUsageDescription</key>
+<string>Мы используем ваше местоположение для отправки тревожных уведомлений</string>
+<key>UIBackgroundModes</key>
+<array>
+  <string>location</string>
+</array>
+
+
+<key>NSBluetoothAlwaysUsageDescription</key>
+<string>We need Bluetooth to connect to your device.</string>
+<key>NSBluetoothPeripheralUsageDescription</key>
+<string>We need Bluetooth to connect to your device.</string>
+
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Health Tracker App</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>health_tracker_app</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSHealthShareUsageDescription</key>
+	<string>We need your health data to show your health statistics.</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>We need your health data to show your health statistics.</string>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+</dict>
+</plist>
