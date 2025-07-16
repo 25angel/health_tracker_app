@@ -5,11 +5,11 @@
 
 <p float="left">
   <img src="screenshots/main_menu.jpg" width="200"/>
-  <img src="screenshots/training_menu.png" width="200"/>
-  <img src="screenshots/mood_notes.png" width="200"/>
-  <img src="screenshots/foot_menu.png" width="200"/>
-  <img src="screenshots/foot_detail.png" width="200"/>
-  <img src="screenshots/meditation.png" width="200"/>
+  <img src="screenshots/training_menu.jpg" width="200"/>
+  <img src="screenshots/mood_notes.jpg" width="200"/>
+  <img src="screenshots/foot_menu.jpg" width="200"/>
+  <img src="screenshots/foot_detail.jpg" width="200"/>
+  <img src="screenshots/meditation.jpg" width="200"/>
 </p>
 
 ## 🚀 Функциональность
