@@ -43,7 +43,8 @@
 1. Клонируй репозиторий:
 
 ```bash
-git clone https://github.com/25angel/healthtracker.git
+git clone https://github.com/25angel/health_tracker_app.git
+
 cd healthtracker
 ```
 
