@@ -1,6 +1,6 @@
 # �� HealthTracker App
 
-[![Flutter](https://img.shields.io/badge/Flutter-3.0%2B-blue?logo=flutter)](https://flutter.dev/) [![Firebase](https://img.shields.io/badge/Firebase-Enabled-yellow?logo=firebase)](https://firebase.google.com/) ![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android%20%7C%20macOS%20%7C%20Web-lightgrey) ![License](https://img.shields.io/badge/license-MIT-green)
+[![Flutter](https://img.shields.io/badge/Flutter-3.0%2B-blue?logo=flutter)](https://flutter.dev/) [![Firebase](https://img.shields.io/badge/Firebase-Enabled-yellow?logo=firebase)](https://firebase.google.com/) ![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android%20%7C%20macOS%20%7C%20Web-lightgrey)
 
 > **RU:** Приложение для отслеживания здоровья, сна, пульса и медитации — с поддержкой Apple Watch.
 > 
@@ -116,7 +116,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+Проект защищён авторским свидетельством. Все права защищены.
 
 ---
 
