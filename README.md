@@ -122,5 +122,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 👤 Author / Contacts
 
-- Telegram: [@svnteenmart](https://t.me/svnteenmart)
+- Telegram: [@iyunmart](https://t.me/iyunmart)
 - GitHub: [25angel](https://github.com/25angel)
